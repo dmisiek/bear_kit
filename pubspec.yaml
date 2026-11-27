@@ -1,6 +1,7 @@
 name: bear_kit
 description: The missing pieces of Flutter. Helper widgets, tools and extensions, style-agnostic.
 version: 0.1.0+1
+repository: https://github.com/dmisiek/bear_kit
 
 
 environment:
